@@ -107,6 +107,12 @@
 "bp":"PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP"
 },{
 "t":"Dinos",
+"cid":"carcharodontosaurus",
+"l":"Carcharodontosaurus",
+"id":"carcha_character_bp_c",
+"bp":"PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP"
+},{
+"t":"Dinos",
 "cid":"castoroides",
 "l":"Castoroides",
 "id":"Beaver_Character_BP_C",
